@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "nombre": "Frank",
+        "foto": "./img/frank.avif",
+        "edad": 25,
+        "dni": "12345678A",
+        "estado_civil": "Soltero"
+    },
+    {
+        "id": 2,
+        "nombre": "Rogger",
+        "foto": "./img/rogger.PNG",
+        "edad": 30,
+        "dni": "87654321B",
+        "estado_civil": "Casado"
+    },
+    {
+        "id": 3,
+        "nombre": "Luis",
+        "foto": "./img/luis.png",
+        "edad": 14,
+        "dni": "98765432",
+        "estado_civil": "Soltero"
+    },
+    {
+        "id": 4,
+        "nombre": "Felipe",
+        "foto": "./img/felipe.avif",
+        "edad": 17,
+        "dni": "975842211",
+        "estado_civil": "Soltero"
+    },
+    {
+        "id": 5,
+        "nombre": "Rosa",
+        "foto": "./img/rosa.png",
+        "edad": 18,
+        "dni": "978765432",
+        "estado_civil": "Soltera"
+    }
+    ,
+    {
+        "id": 6,
+        "nombre": "Miguel",
+        "foto": "./img/miguel.png",
+        "edad": 54,
+        "dni": "84765432",
+        "estado_civil": "Casado"
+    }
+]

@@ -1,0 +1,54 @@
+body {
+    background-color: #c6d8f3;
+    margin: 0; 
+    padding: 0; 
+}
+
+#contenedor-principal {
+    padding: 20px; 
+}
+.usuario {
+    border: 2px solid rgb(248, 243, 243);
+    border-radius: 20px; 
+    padding: 20px; 
+    margin-bottom: 40px;
+    display: flex;
+    align-items: center; 
+    max-width: 600px;
+    margin: 20px auto; 
+    transition: background-color 0.3s ease, transform 0.2s ease; 
+}
+
+.usuario:hover {     
+    transform: scale(1.05);
+}
+
+.nombre {
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 20px; 
+}
+
+.info, .foto {
+    margin-right: 20px; 
+}
+
+.foto {
+    text-align: center;
+}
+
+.foto img {
+    max-width: 200px;
+    border-radius: 10px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column; 
+    flex-grow: 1; 
+    background-color: transparent; 
+    transition: background-color 0.3s ease; 
+}
+
+
